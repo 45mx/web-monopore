@@ -100,6 +100,5 @@ function openAleart() {
 
 a:focus {
   color: purple;
-  bottom: 2;
 }
 </style>
